@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Happy Birthday Deviji 🌸</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<audio autoplay loop>
+  <source src="music.mp3" type="audio/mpeg">
+</audio>
+
+<div class="overlay"></div>
+
+<div class="content">
+  <h1>Happy Birthday YASASWINI 🌷</h1>
+  <h2>Deviji 🤍</h2>
+
+  <img src="cat.webp" class="cat" alt="Cute Cat">
+
+  <p class="message">
+    Dear Deviji 🌸<br><br>
+
+    Some people quietly change the world around them,  
+    not by trying — but simply by being themselves 🌷<br><br>
+
+    Your presence feels gentle, calm, and warm,  
+    like a garden that makes everything around it softer 🤍<br><br>
+
+    Life doesn’t always move the way we expect.  
+    There are pauses, moments of silence, and unexpected turns —  
+    yet some bonds feel comforting no matter how time flows 🌼<br><br>
+
+    I am truly grateful for your presence,  
+    for your kindness, your simplicity,  
+    and for the happiness your existence brings 🌸<br><br>
+
+    On your special day,  
+    I wish you days that bloom effortlessly,  
+    smiles that come naturally,  
+    and a heart that always feels peaceful 🌷✨<br><br>
+
+    May you always be surrounded by flowers you love,  
+    warmth that feels safe,  
+    and moments that remind you  
+    how special you truly are 🤍<br><br>
+
+    Happy Birthday,  
+    YASASWINI — Deviji 🌼
+  </p>
+</div>
+
+</body>
+</html>
