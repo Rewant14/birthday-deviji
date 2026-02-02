@@ -14,6 +14,7 @@ body {
   justify-content: center;
   z-index: 999;
   transition: opacity 0.8s ease;
+  pointer-events: none;
 }
 
 .cracker-bg {
@@ -248,3 +249,4 @@ h2 { color: #6d3b3b; margin-bottom: 20px; }
     opacity: 0.7;
   }
 }
+
